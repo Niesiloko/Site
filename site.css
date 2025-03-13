@@ -1,0 +1,88 @@
+body{
+    background-color:white
+
+}
+
+title{
+    color: black;
+    margin-left: 20px;
+    text-align: center;
+}
+
+
+
+
+h2{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+h3{ 
+    color: #000000;
+    font-family: "roboto", monospace; /* Exemplo de fonte */
+    font-size: 24px;
+
+}
+
+h4{ 
+    color: white;
+    text-align: center;
+
+}
+
+.centralizar{
+    color: black;
+    text-align: center;
+}
+
+.fonte-personalizada { /*font-family: Define a fonte a ser usada. Você pode especificar várias fontes como "fallbacks" (ex.: "Arial, sans-serif"), caso a primeira não esteja disponível no dispositivo do usuário. */
+    font-family: "roboto", monospace; /* Exemplo de fonte */
+    font-size: 18px; /* Aumenta o tamanho da fonte */
+  color: #000000af;  /*Opcional: ajusta a cor */
+}
+
+.fonte-personalizada1 { /*font-family: Define a fonte a ser usada. Você pode especificar várias fontes como "fallbacks" (ex.: "Arial, sans-serif"), caso a primeira não esteja disponível no dispositivo do usuário. */
+    font-family: "roboto", monospace; /* Exemplo de fonte */
+    font-size: 16px;
+  color: #000000;  /*Opcional: ajusta a cor */
+}
+
+
+
+.p{
+  color: black;
+
+}
+
+.shadow-box {
+    width: 1000px;
+    height: 100px;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    border-radius: 8px;
+    padding: 20px;
+    margin: 50px auto;
+    text-align: center;
+  }
+.shadow-box-1 {
+    width: 1000px;
+    height: 140px;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    border-radius: 8px;
+    padding: 20px;
+    margin: 50px auto;
+    text-align: center;}
+
+    .shadow-box-2 {
+      width: 1000px;
+      height: 100x;
+      background-color: #f4f4f4;
+      border: 1px solid #ddd;
+      box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+      border-radius: 8px;
+      padding: 20px;
+      margin: 50px auto;
+      text-align: center;}
